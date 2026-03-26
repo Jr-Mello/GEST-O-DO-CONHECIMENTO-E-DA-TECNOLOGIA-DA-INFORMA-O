@@ -105,3 +105,46 @@ A etapa de distribuir/partilhar envolve a classificação, formatação e contex
 Componentes da GC: Estar ciente de que a GC abrange a expertise dos colaboradores e a integração de processos.
 
 Esses tópicos são fundamentais para que você possa acompanhar a aula e entender como a GC pode ser aplicada na prática.
+
+Atividades nos processos de Gestão do Conhecimento Organizaciona
+
+Quais conhecimentos são essenciais para o sucesso da organização?
+Quais são fundamentais para obter o nosso objetivo?
+
+Os conhecimentos essenciais para o sucesso da organização incluem a identificação de informações cruciais que apoiam as atividades da gestão do conhecimento. É importante entender quais conhecimentos são fundamentais para alcançar os objetivos organizacionais e como esses conhecimentos podem ser geridos de forma estratégica. Isso envolve a criação de um ecossistema que favoreça o capital intelectual e a adaptação em mercados competitivos.
+
+Obter/Adquirir
+
+18:29 - 26/03/2026
+A etapa de obter e adquirir conhecimento é fundamental para o sucesso da organização. Nela, você deve identificar quais conhecimentos são cruciais para alcançar os objetivos da empresa. Esse processo envolve a coleta de informações relevantes e a estruturação desse conhecimento, que será utilizado nas etapas seguintes da gestão do conhecimento. É um ciclo contínuo que combina atividades humanas e automatizadas, visando aumentar o capital intelectual da organização. Você também pode buscar conhecimento externo por meio de contratações ou aquisições. Isso tudo contribui para uma gestão mais eficiente e competitiva.
+
+Distribuir/Partilhar
+
+18:28 - 26/03/2026
+A etapa de distribuir/partilhar envolve a classificação, formatação e contextualização do conhecimento adquirido. É fundamental para garantir que as informações sejam acessíveis e possam ser utilizadas de forma eficaz dentro da organização. Essa fase é crucial para atender às expectativas e facilitar a inovação. Você também pode explorar o artigo recomendado, que discute as influências e barreiras ao compartilhamento da informação, oferecendo uma base teórica sólida sobre o tema.
+
+Utilizar/Aplicar
+
+19:41 - 26/03/2026
+O conceito de "Utilizar/Aplicar" no contexto da gestão do conhecimento envolve a experimentação prática do conhecimento adquirido. É fundamental relatar casos de sucesso e fracasso para entender como aplicar esse conhecimento de forma eficaz. A aplicação deve ser feita de maneira que o conhecimento explícito se torne tácito novamente, integrando-se ao cotidiano e aos modelos mentais da equipe.
+
+Aprender/Criar
+
+19:42 - 26/03/2026
+O conceito de "Aprender/Criar" está relacionado à integração de novos conhecimentos com informações já existentes na organização. Essa etapa estimula a criatividade e a geração de novos conhecimentos, consolidando produtos, serviços ou sistemas gerenciais. A internalização ocorre através da prática, onde o "aprender fazendo" transforma o conhecimento explícito em tácito. É importante lembrar que o conhecimento tácito dos indivíduos é fundamental para a criação do conhecimento organizacional.
+
+Contribuir
+
+19:43 - 26/03/2026
+O conceito de "Contribuir" na gestão do conhecimento envolve incentivar a troca de informações e experiências entre os indivíduos e a organização. É fundamental que cada pessoa participe do ciclo de aprendizado e compartilhe seus conhecimentos, pois a organização não cria conhecimento sozinha. Além disso, é importante descartar conhecimentos que não trazem retorno, focando em investimentos que gerem maior valor. Isso ajuda a construir um ambiente mais receptivo ao conhecimento.
+
+Descartar
+
+19:47 - 26/03/2026
+O conceito de "Descartar" na gestão do conhecimento refere-se à avaliação de investimentos em conhecimento que não trazem retorno. É importante identificar o que é útil e o que não é, para que se possa decidir se deve-se vender uma patente ou até mesmo desligar uma unidade de negócio. Essa avaliação deve ser baseada em dados concretos e informações precisas, permitindo uma tomada de decisão informada. O objetivo é converter investimentos de baixo retorno em oportunidades de maior valor, contribuindo assim para a eficiência organizacional.
+
+
+Identificar/Mapear
+
+19:48 - 26/03/2026
+O conceito de "Identificar/Mapear" na gestão do conhecimento envolve a identificação, avaliação e vinculação de informações, conhecimentos e competências existentes dentro de uma organização. Esse processo é crucial para definir o conhecimento necessário e disponível, ajudando na tomada de decisões críticas e na recuperação de conhecimento. O mapeamento do conhecimento utiliza diversas metodologias, e as organizações devem escolher a técnica mais adequada às suas necessidades. Isso permite um fluxo eficiente de conhecimento, essencial para a aprendizagem organizacional e a inovação.
